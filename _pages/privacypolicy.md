@@ -5,10 +5,9 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+June 10 2021
 
 # Privacy Policy
-Last updated: June 10, 2021
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
