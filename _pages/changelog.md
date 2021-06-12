@@ -15,10 +15,10 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 
 #### What's New
 - Add Google Colab function to play with notebook
-- [Changes to Privacy Policy](/privacypolicy)
+- [Changes to Privacy Policy](notebook/privacypolicy)
 
 #### Bug Fixes
 - fixes some bugs related to connection to cloud storage
-- [Changes to Privacy Policy](/privacypolicy)
+- [Changes to Privacy Policy](notebook/privacypolicy)
 
 <br>
