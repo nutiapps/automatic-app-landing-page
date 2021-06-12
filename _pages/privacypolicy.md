@@ -20,7 +20,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 We dont collect any information from your app/device.
 
 ### 1.1 Information from third parties
-- We use OAuth to get your consent to connect your accounts via Dropbox, Google Drive, OneDrive.
+- We use OAuth to get your consent to connect your accounts via Dropbox, Google Drive, OneDrive, Google Colab.
 - We don't transfer any personal Data
 - We use Google Drive to connect and download your notebooks to your device
 - If you have free version, the ads will be displayed and provided by Google Ads.
@@ -52,7 +52,7 @@ Our service/app does not address anyone under the age of 13.
 
 ## 5.0 Links to Other Websites
 
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Our Service may contain links to other websites that are not operated by Us, for example Colab link. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 <br>
 
