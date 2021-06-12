@@ -11,7 +11,7 @@ We describe our changes to track the app version here.
 
 ### `Latest`
 # **Version 1.8**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+This is the latest update of Jupyter Notebook Master. The most wanted feature is access via Colab. Voila.
 
 #### What's New
 - Add Google Colab function to play with notebook
