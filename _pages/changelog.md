@@ -11,7 +11,7 @@ We describe our changes to track the app version here.
 
 ### `Latest`
 # **Version 1.8**
-This is the latest update of Jupyter Notebook Master. The most wanted feature is access via Colab. Voila.
+This is the latest update of Jupyter Notebook Master. The most wanted feature is to access and code via Google Colab. We'd love to hear your voice.
 
 #### What's New
 - Add Google Colab function to play with notebook
