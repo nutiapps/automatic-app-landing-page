@@ -64,5 +64,5 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 ## 7.0 Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
-    * By email: saigonapps at gmail dot com or nutiapps at gmail dot com
-    * By visiting this page on our website: https://nutiapps.ml/
+- By email: saigonapps at gmail dot com or nutiapps at gmail dot com
+- By visiting this page on our website: https://nutiapps.ml/notebook
