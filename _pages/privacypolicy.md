@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-June 10 2021
+October 27 2024
 
 # Privacy Policy
 
@@ -65,4 +65,4 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 
 If you have any questions about this Privacy Policy, You can contact us:
 - By email: saigonapps at gmail dot com or nutiapps at gmail dot com
-- By visiting this page on our website: https://nutiapps.ml/notebook
+- By visiting this page on our website: https://www.saigonapps.org/notebook
