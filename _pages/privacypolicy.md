@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 27 2024
+October 29 2024
 
 # Privacy Policy
 
@@ -16,7 +16,8 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 <br>
 
 ## 1.0 Information We Collect
-We dont collect any information from your app/device.
+- We don't collect any information from your app/device.
+- We don't use any data from Google Workspace APIs to develop, improve, or train generalized/non-personalized AI and/or ML models.
 
 ### 1.1 Information from third parties
 - We use OAuth to get your consent to connect your accounts via Dropbox, Google Drive, OneDrive, Google Colab.
