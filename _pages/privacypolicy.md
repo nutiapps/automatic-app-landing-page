@@ -22,12 +22,14 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 ### 1.1 Information from third parties
 - We use OAuth to get your consent to connect your accounts via Dropbox, Google Drive, OneDrive, Google Colab.
 - We don't transfer any personal Data
-- We use Google Drive to connect and download your notebooks to your device
+- We use Google Drive to connect and download your notebooks to your device. Data is stored in private folder of the app.
 - If you have free version, the ads will be displayed and provided by Google Ads.
 
 ### 1.2 Information you provide to us 
 In order to get your access to other cloud storage such as Dropbox, Google Drive, OneDrive, you will ask to be consent and be able to download your files into the app. We don't require any information from you.
-
+- data is stored locally in private folder of the app
+- we dont use any data from your Dropbox, Google Drive and OneDrive
+  
 <br>
 
 ## 2.0 What Personal Information we collect about you and how we collect it
