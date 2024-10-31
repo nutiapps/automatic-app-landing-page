@@ -29,6 +29,15 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 In order to get your access to other cloud storage such as Dropbox, Google Drive, OneDrive, you will ask to be consent and be able to download your files into the app. We don't require any information from you.
 - data is stored locally in private folder of the app
 - we dont use any data from your Dropbox, Google Drive and OneDrive
+
+1.3 Data protection mechanisms
+* Local Data protection:
+- Data is store on App private folder, can not be access by other app.
+- By default, data is store on ./tmp folder. It’s automatically deleted when you close app.
+- When you bookmark file, data are store on ./Library folder. It’s automatically deleted in case of Device storage is almost full and It’s also deleted when you delete app.
+* Data transfer
+- Notebook app does not transfer your data to anywhere without your action.
+- When you actively share file to 3rd app (ex: save to Drive or Files App, …), please review the privacy policy of that 3rd app first. We do not take any responsibility in this case.
   
 <br>
 
