@@ -30,7 +30,7 @@ In order to get your access to other cloud storage such as Dropbox, Google Drive
 - data is stored locally in private folder of the app
 - we dont use any data from your Dropbox, Google Drive and OneDrive
 
-1.3 Data protection mechanisms
+### 1.3 Data protection mechanisms
 * Local Data protection:
 - Data is store on App private folder, can not be access by other app.
 - By default, data is store on ./tmp folder. It’s automatically deleted when you close app.
